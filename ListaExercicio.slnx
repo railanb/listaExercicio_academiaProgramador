@@ -6,4 +6,5 @@
   <Project Path="Exercicio05.ConsoleApp/Exercicio05.ConsoleApp.csproj" />
   <Project Path="Exercicio06.ConsoleApp/Exercicio06.ConsoleApp.csproj" />
   <Project Path="Exercicio07.ConsoleApp/Exercicio07.ConsoleApp.csproj" />
+  <Project Path="Exercicio08.ConsoleApp/Exercicio08.ConsoleApp.csproj" />
 </Solution>
